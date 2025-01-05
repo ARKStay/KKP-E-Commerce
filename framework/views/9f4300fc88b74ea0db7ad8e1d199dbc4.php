@@ -1,0 +1,1 @@
+components.layout1<?php /**PATH C:\laragon\www\projek-kkp\storage\framework\views/a0dd2553abdc034503565bcbe833d1d2.blade.php ENDPATH**/ ?>

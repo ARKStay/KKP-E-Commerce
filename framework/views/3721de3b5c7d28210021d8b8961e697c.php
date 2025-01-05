@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\projek-kkp\resources\views/product.blade.php ENDPATH**/ ?>
